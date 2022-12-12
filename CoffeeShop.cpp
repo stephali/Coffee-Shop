@@ -18,7 +18,6 @@ public:
     virtual ~Drink() {}
     virtual std::string Operation() const = 0;
     virtual double Cost() const = 0;
-
 };
 
 //------Concrete Components----//
