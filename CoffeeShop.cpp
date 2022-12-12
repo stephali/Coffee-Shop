@@ -2,11 +2,10 @@
 * Coffee Shop Simulation
 * By: Stephanie Ali
 * Course: Software Design Patterns
-* Description: This is a simulation of a Coffee Shop ordering system.
+* Description: This is a simulation of a Coffee Shop ordering system using the decorator pattern.
 *              The cashier first greets the customer and asks the customer what they would like to order.
 *              The customer tells them their choice of drink.
-*              The program calculates the total price of the drink.
-*              The cashier asks for their name and tells them their grand total.
+*              The program calculates the price of the drink and gives the customer their grand total.
 **/
 
 #include <iostream>
